@@ -1,0 +1,30 @@
+_repo: Seikkailijoita-Romaani_66361
+_version: 0.0.1
+alternative_title: The spoilers. Finnish
+creator:
+  author:
+    agent_name: Beach, Rex
+    alias: Beach, Rex Ellingwood
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '4000'
+    url: http://www.gutenberg.org/2009/agents/4000
+    wikipedia: https://en.wikipedia.org/wiki/Rex_Beach
+description: ''
+gutenberg_issued: '2021-09-22'
+identifiers:
+  gutenberg: '66361'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Yukon River Valley (Yukon and Alaska) -- History -- 19th century -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'Frontier and pioneer life -- Yukon River Valley (Yukon and Alaska) -- Fiction'
+- !lcsh 'Gold mines and mining -- Yukon River Valley (Yukon and Alaska) -- Fiction'
+- GITenberg
+title: 'Seikkailijoita: Romaani'
+url: http://www.gutenberg.org/ebooks/66361
